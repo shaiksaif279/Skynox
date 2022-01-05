@@ -1,0 +1,190 @@
+img{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+body{
+    background-color: rgb(245, 241, 248);
+
+}
+#navBar{
+    margin-left: 20px;
+     
+     
+}
+.title{
+    width: 200px;
+    text-align: center;
+}
+ ul{
+    text-decoration: none;
+}
+.imgHr{
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+footer{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 10px;
+    text-align: center;
+   
+}
+.footerHr{
+    width: 150px;
+     
+
+}
+.Packages{
+    width: 50%;
+     
+}
+.pImages{
+    width: 200px;
+    height: 150px;
+    margin-top: 0%;
+    margin-left: 0%;
+    border-radius: 10px;
+}
+
+.cardText{
+    width: 300px;
+    padding-left: 20px;
+     
+    
+}
+.cardPrice{
+    padding-left: 20px;
+}
+a{
+    text-decoration:none ;
+    color: black;
+}
+#button{
+    width: 20px;
+    height: 20px;
+    margin: 0;
+}
+.btn{
+    margin-top: 10px;
+     
+    padding: none;
+    border:none ;
+    background: none;
+    background-color: white;
+     
+}
+.btn-s{
+    border: none;
+    background-color: white;
+}
+.button-menu{
+     
+     
+     
+    opacity: 1;
+}
+.button-menu.active{
+    opacity: 1;
+}
+#card{
+    margin-top: 30px;
+    
+}
+.Info{
+    
+    width: 30%;
+}
+.icon{
+    font-size: 60px;
+}
+.name{
+    margin-top: 15px;
+}
+input{
+    width: 300px;
+}
+.dImages{
+    width: 100px;
+    height: 70px;
+    margin: 0;
+    border-radius: 10px;
+}
+ 
+.dText{
+    font-size: 10px;
+    margin: 0;
+}
+#SCard{
+    margin-top: 20px;
+     
+}
+h4{
+    margin-top:10px ;
+}
+#Dsection{
+    margin-left: 10px;
+}
+.dbtn{
+    border: none;
+    width: 2px;
+}
+#SCard1{
+    margin-top: 25px;
+}
+#SCard2{
+    margin-top: 25px;
+}
+.total{
+    margin-top: 30px;
+}
+.price{
+    margin-right: 50px;
+}
+.calc{
+    margin-top: 10px;
+}
+.checkout >button{
+    margin-top: 30px;
+    width: 400px;
+    background-color:black ;
+    color: white;
+}
+.Iprice{
+    margin-left: 50px;
+}
+.navD{
+    background-color: white;
+    padding-right: 20px;
+}
+.items{
+    background-color: white;
+}
+#info{
+    padding: 20px;
+}
+.dish{
+    background-color: rgb(231, 230, 228);
+}
+.trash{
+    margin-left: 150px;
+}
+.Home{
+    margin-left: 13px;
+}
+.pack{
+    color: blue;
+}
+.infoHr{
+    width: 400px;
+}
+.ImgText{
+    opacity: 0.75;
+    font-size: 13px;
+    width: 250px;
+}
+ 
